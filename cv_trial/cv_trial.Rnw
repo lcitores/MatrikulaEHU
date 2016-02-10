@@ -1,0 +1,132 @@
+
+%----------------------------------------------------------------------------------------
+%  PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt,a4paper,sans]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+
+\moderncvstyle{classic} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{grey} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+
+\usepackage[scale=0.75]{geometry} % Reduce document margins
+%\setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
+%\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION SECTION
+%----------------------------------------------------------------------------------------
+
+\firstname{Leire} % Your first name
+\familyname{Citores Martinez} % Your last name
+
+% All information in this block is optional, comment out any lines you don't need
+%\title{Curriculum Vitae}
+\address{Karmelo Etxegarai 1}{20018 Donostia, Gipuzkoa}
+\mobile{687642910}
+%\phone{(000) 111 1112}
+%\fax{(000) 111 1113}
+\email{lcitores@azti.es}
+%\homepage{staff.org.edu/~jsmith}{staff.org.edu/$\sim$jsmith} % The first argument is the url for the clickable link, the second argument is the url displayed in the template - this allows special characters to be displayed such as the tilde in this example
+%\extrainfo{additional information}
+%\photo[70pt][0.4pt]{pictures/leire_argazki} % The first bracket is the picture height, the second is the thickness of the frame around the picture (0pt for no frame)
+%\quote{"A witty and playful quotation" - John Smith}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+
+\makecvtitle % Print the CV title
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+
+
+\section{Education}
+
+\cventry{2012--2014}{M.Sc. in Statistics and Operations Research}{UPC-UB (Universitat Politècnica de Catalunya - Universitat de Barcelona)}{}{}{}  
+
+\subsection{Masters Thesis (honors qualification)}
+
+\cvitem{Title}{\emph{A stochastic programming model for tertiary control of microgrids}}
+\cvitem{Supervisors}{Professor Javier Heredia \& Associate Professor Cristina Corchero}
+\cvitem{Description}{Modelization of a real energy management problem. Mathematical programming and stochastic optimization using GAMS. Statistical analysis using R. }
+
+\cventry{2007--2012}{B.Sc. in Mathematics}{UPV-EHU (University of the Basque Country) }{}{}{}
+
+\cventry{2007}{High School Diploma (honors qualification)}{Antigua-Luberri B.H.I.}{}{}{}
+
+\section{Complementary Education}
+
+\cventry{2015}{FLR and A4A for quantitative fisheries science}{JRC, European Commission, Ispra}{30h.}{}{}
+\cventry{2015}{Mixed Models and Generalized Additive Models with R}{Azti-BCAM}{15h.}{}{}
+\cventry{2014}{Generalized Linear Models}{UPV-EHU}{15h.}{}{}
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Work Experience}
+
+\cventry{2015--Present}{Ph.D. researcher}{\textsc{AZTI-Tecnalia}}{}{}{}
+
+%------------------------------------------------
+
+\cventry{2014--2015}{Biostatistician}{\textsc{Gurutzeta Hospital}}{}{}{}
+
+%------------------------------------------------
+
+
+\cventry{2013--2014}{Master thesis development}{Institut de Recerca de Energia de Catalunya (IREC)}{}{}{}
+
+\cventry{2012}{Summer work as statistician}{Basurto Hospital}{}{}{}
+
+\cventry{2010--2011}{Monitor in English summer camps}{Ikastolen elkartea}{}{}{}
+
+\cventry{2009--2011}{Private tuition}{}{}{}{}
+
+%----------------------------------------------------------------------------------------
+%	Pub SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Conferences and Publications}
+
+\cvitem{-}{L. Citores,  C. Corchero, F.-J. Heredia. "A stochastic programming model for the tertiary control of microgrids," in European Energy Market (EEM), 2015 12th International Conference on the , vol., no., pp.1-6, 19-22 , May 2015.}
+\cvitem{-}{E. Tabernero, P. Gil, E. Arana-Arri, L. Citores, R. Alkiza,   A. Hernandez, A. Gil. "Non-invasive ventilation in'do-not-intubate'patients in a chronic disease hospital. One year follow-up study". Revista española de geriatria y gerontologia, January 2016.}
+\cvitem{-}{A. Escobar, A. Bilbao, M. G. S. de Tejada, M.  Fernandez-soto,,  I. Lafuente, E. Sanchez-haya, L. Citores. "PHS70 Health Related Quality of Life As Predictor of Death Among Patients With Heart Failure". Value in Health, 15(7), A530-A531, 2012}
+\cvitem{-}{Volunteer in the organization of the "XV Conferencia Española de Biometría y V Encuentro Iberoamericano de Biometría"  held in Bilbao, September 22-25, 2015.}{}
+
+\cvitem{-}{Volunteer in the organization of the "20th Conference of the International Federation of Operational Research Societies (IFORS)" held in Barcelona, July 13-18, 2014. 
+}{}
+
+%----------------------------------------------------------------------------------------
+%  LANGUAGES SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Languages}
+
+\cvitemwithcomment{Basque}{Mothertongue, EGA}{}
+\cvitemwithcomment{Spanish}{Mothertongue}{}
+\cvitemwithcomment{English}{Certificate in Advanced English (CAE), Cambridge }{}%{Summer courses in: Canada(2004), Ireland(2006), Australia(2008), GreatBritain(2009)}
+
+%----------------------------------------------------------------------------------------
+%	COMPUTER SKILLS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Computer skills}
+
+\cvitem{Software}{R, JAGS, SPSS, AMPL, GAMS, Mathematica, SQL}
+\cvitem{Typesetting}{ \LaTeX}
+\cvitem{Operating systems}{ Windows, Linux}
+
+
+
+
+
+
+
+\end{document}
