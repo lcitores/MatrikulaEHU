@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.23)  12 FEB 2016 14:24
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.23)  16 FEB 2016 08:40
 entering extended mode
 **gutuna.tex
 (C:\use\GitHub\MatrikulaEHU\gutuna\gutuna.tex
@@ -217,87 +217,87 @@ LaTeX Font Info:    ... okay on input line 4.
 \makeMPintoPDFobject=\count96
 \everyMPtoPDFconversion=\toks16
 ) (C:\use\GitHub\MatrikulaEHU\gutuna\gutuna-concordance.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 6--7
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
 
-Overfull \hbox (4.10774pt too wide) in paragraph at lines 10--11
+Overfull \hbox (4.10774pt too wide) in paragraph at lines 11--12
 []\T1/aer/m/n/10 Matematikako lizentziatura 2012an bukatu nuen EHUn, es-tatis-t
 ika eta ik-erkuntza
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--17
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
  []
 
 
-Overfull \hbox (1.45647pt too wide) in paragraph at lines 18--19
+Overfull \hbox (1.45647pt too wide) in paragraph at lines 19--20
 []\T1/aer/m/n/10 Gaur egun pop-u-lazio di-namika ere-d-uak \T1/aer/m/it/10 Mark
 ov-en eredu ezkutu \T1/aer/m/n/10 bezala sailkatzen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
 
  []
 
 [1
 
 {C:/Users/lcitores/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Overfull \hbox (12.9156pt too wide) in paragraph at lines 20--21
+Overfull \hbox (12.9156pt too wide) in paragraph at lines 21--22
 \T1/aer/m/n/10 floten er-rendi-mendu sozio-ekonomikoa ho-be-tuz. Hor-re-tarako 
 es-tatis-tika Bayesiarra,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--23
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
 
@@ -313,7 +313,7 @@ Here is how much of TeX's memory you used:
 <C:/Program Files/MiKTeX 2.
 9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/amsfonts/cm/cmti10.pfb>
-Output written on gutuna.pdf (2 pages, 43531 bytes).
+Output written on gutuna.pdf (2 pages, 43540 bytes).
 PDF statistics:
  18 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

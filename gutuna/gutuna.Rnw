@@ -2,7 +2,8 @@
 \setlength{\parindent}{0pt}
 \begin{document}
 \SweaveOpts{concordance=TRUE}
-\textit{Sukarrietan, 2016ko Otsailaren 12an}\\
+
+\hfill \textit{Sukarrietan, 2016ko Otsailaren 12an}\\
 
 Gutun honen bitartez, UPV-EHU ko Matematika eta Estatistika doktorego programan izena emateko dudan interesa azaldu nahiko nuke. Orain arte ikerketan dudan esperientzia laburra izan arren, argi dut bide honetatik jarraitu nahi dudala eta ondoren azalduko dudan doktorego proiektu batekin egin nahiko nuke aurrera zuen programaren barruan.\\
 
