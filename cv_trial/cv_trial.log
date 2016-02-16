@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.23)  10 FEB 2016 15:53
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.23)  16 FEB 2016 12:21
 entering extended mode
 **cv_trial.tex
 (C:\use\GitHub\MatrikulaEHU\cv_trial\cv_trial.tex
@@ -657,28 +657,28 @@ LaTeX Font Warning: Font shape `T1/aess/m/sc' undefined
 [1
 
 {C:/Users/lcitores/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 133.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 138.
 
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 133.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 138.
  (C:\use\GitHub\MatrikulaEHU\cv_trial\cv_trial.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 133.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 133.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 138.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 138.
 Package rerunfilecheck Info: File `cv_trial.out' has not changed.
-(rerunfilecheck)             Checksum: 7A77FC218F3F41492C0F2CB00250858E;1028.
+(rerunfilecheck)             Checksum: 0829BBC9520AFC9B6A451C2042B90FD9;1016.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 12920 strings out of 493921
- 188813 string characters out of 3147273
+ 12922 strings out of 493921
+ 188835 string characters out of 3147273
  402641 words of memory out of 3000000
- 15917 multiletter control sequences out of 15000+200000
+ 15918 multiletter control sequences out of 15000+200000
  60424 words of font info for 131 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 42i,13n,67p,774b,342s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,12n,67p,774b,336s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files/MiKT
@@ -686,9 +686,9 @@ eX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/cm/cmssi10.pfb><C:/Users/lcitores/AppData/Roaming/MiKTeX/2.
 9/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv_trial.pdf (2 pages, 90374 bytes).
+Output written on cv_trial.pdf (2 pages, 90682 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 10 named destinations out of 1000 (max. 500000)
- 37949 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 83 PDF objects out of 1000 (max. 8388607)
+ 11 named destinations out of 1000 (max. 500000)
+ 37957 words of extra memory for PDF output out of 42996 (max. 10000000)
 

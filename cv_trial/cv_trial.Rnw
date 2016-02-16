@@ -93,15 +93,11 @@
 %	Pub SECTION
 %----------------------------------------------------------------------------------------
 
-\section{Conferences and Publications}
+\section{Publications}
 
-\cvitem{-}{L. Citores,  C. Corchero, F.-J. Heredia. "A stochastic programming model for the tertiary control of microgrids," in European Energy Market (EEM), 2015 12th International Conference on the , vol., no., pp.1-6, 19-22 , May 2015.}
+\cvitem{-}{L. Citores,  C. Corchero, F.-J. Heredia. "A stochastic programming model for the tertiary control of microgrids," 12th International Conference on the European Energy Market (EEM)  (pp. 1-6). IEEE. , May 2015.}
 \cvitem{-}{E. Tabernero, P. Gil, E. Arana-Arri, L. Citores, R. Alkiza,   A. Hernandez, A. Gil. "Non-invasive ventilation in'do-not-intubate'patients in a chronic disease hospital. One year follow-up study". Revista española de geriatria y gerontologia, January 2016.}
 \cvitem{-}{A. Escobar, A. Bilbao, M. G. S. de Tejada, M.  Fernandez-soto,,  I. Lafuente, E. Sanchez-haya, L. Citores. "PHS70 Health Related Quality of Life As Predictor of Death Among Patients With Heart Failure". Value in Health, 15(7), A530-A531, 2012}
-\cvitem{-}{Volunteer in the organization of the "XV Conferencia Española de Biometría y V Encuentro Iberoamericano de Biometría"  held in Bilbao, September 22-25, 2015.}{}
-
-\cvitem{-}{Volunteer in the organization of the "20th Conference of the International Federation of Operational Research Societies (IFORS)" held in Barcelona, July 13-18, 2014. 
-}{}
 
 %----------------------------------------------------------------------------------------
 %  LANGUAGES SECTION
@@ -123,8 +119,17 @@
 \cvitem{Typesetting}{ \LaTeX}
 \cvitem{Operating systems}{ Windows, Linux}
 
+%----------------------------------------------------------------------------------------
+%  other information
+%----------------------------------------------------------------------------------------
 
 
+\section{Others}
+
+\cvitem{-}{Volunteer in the organization of the "XV Conferencia Española de Biometría y V Encuentro Iberoamericano de Biometría"  held in Bilbao, September 22-25, 2015.}{}
+
+\cvitem{-}{Volunteer in the organization of the "20th Conference of the International Federation of Operational Research Societies (IFORS)" held in Barcelona, July 13-18, 2014. 
+}{}
 
 
 
