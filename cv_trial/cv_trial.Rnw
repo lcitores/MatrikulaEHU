@@ -62,9 +62,9 @@
 
 \section{Complementary Education}
 
-\cventry{2015}{FLR and A4A for quantitative fisheries science}{JRC, European Commission, Ispra}{30h.}{}{}
-\cventry{2015}{Mixed Models and Generalized Additive Models with R}{Azti-BCAM}{15h.}{}{}
-\cventry{2014}{Generalized Linear Models}{UPV-EHU}{15h.}{}{}
+\cventry{2015}{FLR and A4A for quantitative fisheries science}{JRC, European Commission, Ispra}{30h}{}{}
+\cventry{2015}{Mixed Models and Generalized Additive Models with R}{Azti-BCAM}{15h}{}{}
+\cventry{2014}{Generalized Linear Models}{UPV-EHU}{15h}{}{}
 
 %----------------------------------------------------------------------------------------
 %	WORK EXPERIENCE SECTION
