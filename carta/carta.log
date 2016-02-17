@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.23)  16 FEB 2016 22:14
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.23)  17 FEB 2016 09:08
 entering extended mode
 **carta.tex
 (C:\use\GitHub\MatrikulaEHU\carta\carta.tex
@@ -370,85 +370,79 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--26
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--32
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
 
 
-Overfull \hbox (1.45647pt too wide) in paragraph at lines 35--36
-[]\T1/aer/m/n/10 Gaur egun pop-u-lazio di-namika ere-d-uak \T1/aer/m/it/10 Mark
-ov-en eredu ezkutu \T1/aer/m/n/10 bezala sailkatzen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
+Underfull \hbox (badness 10000) in paragraph at lines 34--44
 
  []
 
 [1
 
 {C:/Users/lcitores/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
+Underfull \hbox (badness 10000) in paragraph at lines 48--51
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
 
  []
 
 
-Overfull \hbox (6.42566pt too wide) in paragraph at lines 43--44
+Overfull \hbox (6.42566pt too wide) in paragraph at lines 58--59
 []\T1/aer/m/n/10 Para la di-rec-ción de la tesis cuento el apoyo con de Dae-Jin
  Lee y Leire Ibaibariaga.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--48
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 70.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 84.
  (C:\use\GitHub\MatrikulaEHU\carta\carta.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 70.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 70.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
 Package rerunfilecheck Info: File `carta.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 70.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 84.
  ) 
 Here is how much of TeX's memory you used:
  6029 strings out of 493921
  88939 string characters out of 3147273
- 162008 words of memory out of 3000000
+ 163008 words of memory out of 3000000
  9287 multiletter control sequences out of 15000+200000
  9036 words of font info for 21 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  35i,4n,21p,1070b,315s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on carta.pdf (3 pages, 49535 bytes).
+Output written on carta.pdf (3 pages, 49383 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  4 named destinations out of 1000 (max. 500000)
