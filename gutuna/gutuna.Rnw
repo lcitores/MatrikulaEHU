@@ -4,7 +4,7 @@
 \begin{document}
 \SweaveOpts{concordance=TRUE}
 
-\hfill \textit{Sukarrietan, 2016ko Otsailaren 12an}\\
+\hfill \textit{Sukarrietan, 2016ko Otsailaren 18an}\\
 
 \bigskip
 
